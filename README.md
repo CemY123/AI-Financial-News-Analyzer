@@ -1,4 +1,4 @@
-# AI-Finacial-News-Analyzer
+
 # AI Financial News Analyzer
 
 AI Financial News Analyzer is a Python web application I built to make financial news easier to understand. The idea behind the project was to take long or complicated financial articles and use AI to break them down into useful information without having to read through the entire article.
